@@ -1,0 +1,93 @@
+:root{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #dedcdc;
+    margin: 0;
+}
+
+article#opening{
+    text-align: center;
+}
+
+.headbox{
+    background-color: rgb(144, 177, 192);
+    height: 100px;
+    width: 100%;
+    padding: 10px;
+    margin: 0;
+    
+}
+
+.productimg{
+    height:280px ;
+    width: 180px;
+    border-radius: 10px;
+}
+
+.productbox{
+    background-color: #dedcdc;
+    height: 250px; 
+    width: 150px;
+    padding:20px;
+    margin: 30px;
+}
+
+.productcontent{
+    display: flex;
+    justify-content: center;
+}
+
+
+body {
+            font-size: 15px;
+            color: rgb(42, 26, 3);
+            padding: 10px;
+
+        }
+
+
+        .judul {
+            font-size: 200 px;
+            text-align: center;
+            color: rgb(0, 48, 144);
+            font-weight: bold;
+
+        }
+
+        .anav {
+            color: aliceblue;
+            border-radius: 20px;
+            font-size: 15px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-decoration: none;
+            padding-left: 5px;
+            padding-right: 5px;
+            border: 30px;
+            height: 5px;
+            width: 30px;
+            display: inline;
+            border-radius: 20px;
+            border: 20px;
+        }
+
+        nav#pertama{
+            text-align: center;
+        }
+
+        .harga {
+            height: 20px;
+            width: 50px;
+            background-color: rgba(82, 59, 33, 0.887);
+            border-radius: 10px;
+            color: rgb(255, 255, 255);
+            font-weight: bold;
+            text-decoration: none;
+            border: 50px;
+            display: flexbox;
+        }
+
+        .logo {
+            height: 100px;
+            width: 100px;
+            position: absolute;
+
+        }
